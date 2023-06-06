@@ -1,0 +1,66 @@
+.atmContainer {
+  border: solid red;
+  width: 700px;
+  margin: auto;
+  
+
+
+}
+.screen {
+  border: solid red;
+  width: 100%;
+  
+  
+}
+.title {
+  border: solid red;
+  text-align: center;
+  font-family: Arial;
+  font-size: 2em;
+  
+}
+.displayContainer {
+  border: solid red;
+  display: flex;
+  height: 350px;
+
+}
+.bttnLeft {
+  border: solid blue;
+  width: 20%;
+
+}
+.middleScreen {
+  border: solid purple;
+  width: 60%;
+
+}
+.bttnRight {
+  border: solid orange;
+  width: 20%;
+
+}
+
+/* bottom section */
+.bottomContainer {
+  border: solid red;
+  height: 200px;
+
+}
+.keypadContainer {
+  border: solid red;
+  display:flex;
+  height: 100%;
+  justify-content: center;
+
+}
+.keyButtns div  {
+  border: solid gray;
+  height: 15%;
+  
+}
+button {
+  height: 100%;
+  width: 50px;
+}
+
